@@ -1,0 +1,14 @@
+{
+  "0.0.2": {
+    "changes": [
+      "## Welcome to Belen",
+      "Welcome to the Belen theme — a new home for BetterBLOX.",
+      "Welcome: Belen branding, name and logo",
+      "Added: Dark and light themes with brand colors",
+      "Added: What's New change log (v2)",
+      "Improved: Navigation, chat and avatar rendering",
+      "Fixed: Premium and onboarding routes removed from the theme",
+      "Reworked: Theme now served from its own GitHub Pages site"
+    ]
+  }
+}

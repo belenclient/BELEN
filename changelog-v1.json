@@ -1,0 +1,18 @@
+{
+  "2.7.3": {
+    "changes": [
+      "## BetterBLOX 2.7",
+      "Fixed: Last-online friend notifications",
+      "Improved: Server region selector reliability",
+      "Added: New player popup interactions"
+    ]
+  },
+  "2.7.2": {
+    "changes": [
+      "## BetterBLOX 2.7",
+      "Improved: Chat message rendering",
+      "Fixed: Avatar popup flickering",
+      "Removed: Legacy onboarding flow"
+    ]
+  }
+}
